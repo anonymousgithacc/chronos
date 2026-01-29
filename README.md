@@ -7,7 +7,7 @@
   [This logo was generated using DALL·E 3 by OpenAI]
 </p>
 
-[![Paper (Under Review)](https://img.shields.io/badge/Paper-MLSys%202026-lightblue)](./CHRONOS_MLSys2026.pdf)
+[![Paper (Under Review)](https://img.shields.io/badge/Paper-ICML%202026-lightblue)](./CHRONOS_MLSys2026.pdf)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue)]()
 [![License](https://img.shields.io/badge/License-MIT-green.svg)]()
 
